@@ -1,0 +1,19 @@
+created_by: vishnoianil
+version: 3
+task_description: testing the new wizard based skill form for github mode
+seed_examples:
+  - context: asdf
+    question: asdf
+    answer: asdf
+  - context: zxcv
+    question: zxcv
+    answer: zxcv
+  - context: sdfg
+    question: dfg
+    answer: sdfg
+  - context: hter
+    question: erth
+    answer: hetr
+  - context: hert
+    question: etrh
+    answer: hert
