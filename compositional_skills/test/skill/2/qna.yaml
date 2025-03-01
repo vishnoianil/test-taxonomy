@@ -1,0 +1,19 @@
+created_by: vishnoianil
+version: 3
+task_description: testing new skill form wizard with the awesome refactoring work done by jeff
+seed_examples:
+  - context: a
+    question: a
+    answer: a
+  - context: b
+    question: b
+    answer: b
+  - context: c
+    question: c
+    answer: c
+  - context: d
+    question: d
+    answer: d
+  - context: d
+    question: f
+    answer: f
