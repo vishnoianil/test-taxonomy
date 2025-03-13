@@ -1,0 +1,51 @@
+created_by: vishnoianil
+version: 3
+domain: asdfasdf
+document_outline: asdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdf
+seed_examples:
+  - context: a
+    questions_and_answers:
+      - question: aa
+        answer: aa
+      - question: ss
+        answer: ss
+      - question: dd
+        answer: dd
+  - context: '2'
+    questions_and_answers:
+      - question: ff
+        answer: ff
+      - question: gg
+        answer: gg
+      - question: hh
+        answer: hh
+  - context: '3'
+    questions_and_answers:
+      - question: gg
+        answer: bb
+      - question: hh
+        answer: hh
+      - question: ww
+        answer: ww
+  - context: '4'
+    questions_and_answers:
+      - question: ee
+        answer: ee
+      - question: rr
+        answer: rr
+      - question: tt
+        answer: tt
+  - context: '5'
+    questions_and_answers:
+      - question: tt
+        answer: tt
+      - question: yy
+        answer: yy
+      - question: uuu
+        answer: uu
+document:
+  repo: https://github.com/vishnoianil/taxonomy-knowledge-docs
+  commit: 03fcc315e8bf825d723b47c501ae0dae45788093
+  patterns:
+    - >-
+      knowledge-contribution-1741846062534/20250313T061017402/instructlab-test-3.md
