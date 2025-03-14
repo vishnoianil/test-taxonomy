@@ -1,0 +1,56 @@
+created_by: vishnoianil
+version: 3
+domain: test-knowledge
+document_outline: 'Knowledge: Testing the new knowledge contribution form'
+seed_examples:
+  - context: |-
+      Grant of Copyright License. Subject to the terms and conditions of
+            this License, each Contributor hereby grants to You a perpetual,
+            worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+            copyright license to reproduce, prepare Derivative Works of,
+            publicly display, publicly perform, sublicense, and distribute the
+            Work and such Derivative Works in Source or Object form.
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: '22222'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: '3'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: '4'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: '5'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+document:
+  repo: https://github.com/vishnoianil/taxonomy-knowledge-docs
+  commit: f45fb97f95f83f975b3ed94207a07f6144757c4d
+  patterns:
+    - instructlab-test-3-20250314T172327811.md
