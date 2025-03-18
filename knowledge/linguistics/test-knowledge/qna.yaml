@@ -1,0 +1,57 @@
+created_by: vishnoianil
+version: 3
+domain: test-knowledge
+document_outline: testing the knowledge contribution
+seed_examples:
+  - context: '1'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: '2'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: '3'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: '4'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: '5'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+document:
+  repo: https://github.com/vishnoianil/taxonomy-knowledge-docs
+  commit: d1a6796db1ce037e843fb161d4382a4d65ed98de
+  patterns:
+    - >-
+      knowledge-contribution-1741973063826/20250318T042714147/instructlab-test-1.md
+    - >-
+      knowledge-contribution-1741973063826/20250318T042714147/instructlab-test-3.md
+    - >-
+      knowledge-contribution-1741973063826/20250318T042714147/instructlab-test-4.md
+    - >-
+      knowledge-contribution-1741973063826/20250318T042714147/instructlab-test-5.md
