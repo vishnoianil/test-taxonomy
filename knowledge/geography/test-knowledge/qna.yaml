@@ -1,0 +1,80 @@
+created_by: vishnoianil
+version: 3
+domain: test-knowledge
+document_outline: 'Knowledge: testing the knowledge document upload '
+seed_examples:
+  - context: |-
+      "Work" shall mean the work of authorship, whether in Source or
+            Object form, made available under the License, as indicated by a
+            copyright notice that is included in or attached to the work
+            (an example is provided in the Appendix below).
+
+            "Derivative Works" shall mean any work, whether in Source or Object
+            form, that is based on (or derived from) the Work and for which the
+            editorial revisions, annotations, elaborations, or other modifications
+            represent, as a whole, an original work of authorship. For the purposes
+            of this License, Derivative Works shall not include works that remain
+            separable from, or merely link (or bind by name) to the interfaces of,
+            the Work and Derivative Works thereof.
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: |-
+      "License" shall mean the terms and conditions for use, reproduction,
+            and distribution as defined by Sections 1 through 9 of this document.
+
+            "Licensor" shall mean the copyright owner or entity authorized by
+            the copyright owner that is granting the License.
+
+            "Legal Entity" shall mean the union of the acting entity and all
+            other entities that control, are controlled by, or are under common
+            control with that entity. For the purposes of this definition,
+            "control" means (i) the power, direct or indirect, to cause the
+            direction or management of such entity, whether by contract or
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: '3'
+    questions_and_answers:
+      - question: '4'
+        answer: '4'
+      - question: '5'
+        answer: '5'
+      - question: '6'
+        answer: '6'
+  - context: '4'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: '5'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+document:
+  repo: https://github.com/vishnoianil/taxonomy-knowledge-docs
+  commit: 11273bb9d6790ad68434a520c8267d762f7eae9a
+  patterns:
+    - >-
+      knowledge-contribution-1742281344082/20250318T074914630/instructlab-test-1.md
+    - >-
+      knowledge-contribution-1742281344082/20250318T074914630/instructlab-test-3.md
+    - >-
+      knowledge-contribution-1742281344082/20250318T074914630/instructlab-test-4.md
+    - >-
+      knowledge-contribution-1742281344082/20250318T074914630/instructlab-test-5.md
