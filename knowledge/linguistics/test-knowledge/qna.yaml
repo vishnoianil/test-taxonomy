@@ -1,0 +1,67 @@
+created_by: vishnoianil
+version: 3
+domain: test-knowledge
+document_outline: 'Knowledge: Testing the new document upload apis for knowledge contribut...'
+seed_examples:
+  - context: '1'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: '2'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: '3'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: '4'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: '5'
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+document:
+  repo: https://github.com/vishnoianil/taxonomy-knowledge-docs
+  commit: fc48317ab88ccddade7726e22b310db80e68ddb4
+  patterns:
+    - >-
+      knowledge-contribution-1742361251441/20250326T081959622/instructlab-test-2.md
+    - >-
+      knowledge-contribution-1742361251441/20250326T081959622/instructlab-test-4.md
+    - >-
+      knowledge-contribution-1742361251441/20250326T081959622/instructlab-test-5.md
+    - >-
+      knowledge-contribution-1742361251441/20250326T081959622/instructlab-test-6.md
+    - >-
+      knowledge-contribution-1742361251441/20250326T081959622/instructlab-test-7.md
+    - >-
+      knowledge-contribution-1742361251441/20250326T081959622/instructlab-test-8.md
+    - >-
+      knowledge-contribution-1742361251441/20250326T081959622/instructlab-test-9.md
+    - >-
+      knowledge-contribution-1742361251441/20250326T081959622/instructlab-test-1.md
+    - >-
+      knowledge-contribution-1742361251441/20250326T081959622/instructlab-test-3.md
