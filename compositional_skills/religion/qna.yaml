@@ -1,0 +1,29 @@
+created_by: vishnoianil
+version: 3
+task_description: test skill with auto save feature
+seed_examples:
+  - context: '12'
+    question: '11'
+    answer: >-
+      They consist of seed data which provide instructions for completing a
+      task. To autofill this form from a document,
+  - context: '23'
+    question: '21'
+    answer: >-
+      They consist of seed data which provide instructions for completing a
+      task. To autofill this form from a document,
+  - context: '33'
+    question: '31'
+    answer: >-
+      They consist of seed data which provide instructions for completing a
+      task. To autofill this form from a document,
+  - context: '42'
+    question: '41'
+    answer: >-
+      They consist of seed data which provide instructions for completing a
+      task. To autofill this form from a document,
+  - context: '53'
+    question: '51'
+    answer: >-
+      They consist of seed data which provide instructions for completing a
+      task. To autofill this form from a document,
