@@ -67,11 +67,9 @@ seed_examples:
         answer: '3'
 document:
   repo: https://github.com/vishnoianil/taxonomy-knowledge-docs
-  commit: 799b16e3c7ea36a4932561cc4637748f625875f4
+  commit: 7cb5fbd646e698616d5ce91d2818c5a43c4040e7
   patterns:
     - >-
-      knowledge-contribution-1745468775119/20250424T042938494/instructlab-test-3.md
+      knowledge-contribution-1745468775119/20250424T050505273/instructlab-test-3.md
     - >-
-      knowledge-contribution-1745468775119/20250424T042938494/instructlab-test-4.md
-    - >-
-      knowledge-contribution-1745468775119/20250424T042938494/instructlab-test-5.md
+      knowledge-contribution-1745468775119/20250424T050505273/instructlab-test-4.md
