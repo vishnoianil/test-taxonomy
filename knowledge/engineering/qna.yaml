@@ -1,0 +1,77 @@
+created_by: vishnoianil
+version: 3
+domain: engineering
+document_outline: knowledge for testing autosave feature
+seed_examples:
+  - context: |-
+      "License" shall mean the terms and conditions for use, reproduction,
+            and distribution as defined by Sections 1 through 9 of this document.
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: |-
+      "Legal Entity" shall mean the union of the acting entity and all
+            other entities that control, are controlled by, or are under common
+            control with that entity. For the purposes of this definition,
+            "control" means (i) the power, direct or indirect, to cause the
+            direction or management of such entity, whether by contract or
+            otherwise, or (ii) ownership of fifty percent (50%) or more of the
+            outstanding shares, or (iii) beneficial ownership of such entity
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: |-
+      "Object" form shall mean any form resulting from mechanical
+            transformation or translation of a Source form, including but
+            not limited to compiled object code, generated documentation,
+            and conversions to other media types.
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: |-
+      "Derivative Works" shall mean any work, whether in Source or Object
+            form, that is based on (or derived from) the Work and for which the
+            editorial revisions, annotations, elab
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+  - context: |-
+      "Contribution" shall mean any work of authorship, including
+            the original version of the Work and any modifications or additions
+            to that Work or Derivative Works thereof, that is intentionally
+            submitted to Licensor for inclusion in the Work by the copyright owner
+            or by an individual or Legal Entity authorized to submit on behalf of
+            the copyright owner. For th
+    questions_and_answers:
+      - question: '1'
+        answer: '1'
+      - question: '2'
+        answer: '2'
+      - question: '3'
+        answer: '3'
+document:
+  repo: https://github.com/vishnoianil/taxonomy-knowledge-docs
+  commit: 799b16e3c7ea36a4932561cc4637748f625875f4
+  patterns:
+    - >-
+      knowledge-contribution-1745468775119/20250424T042938494/instructlab-test-3.md
+    - >-
+      knowledge-contribution-1745468775119/20250424T042938494/instructlab-test-4.md
+    - >-
+      knowledge-contribution-1745468775119/20250424T042938494/instructlab-test-5.md
